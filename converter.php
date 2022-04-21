@@ -43,7 +43,7 @@ return $gr / 1000;
     <div id="main-content">
       <h1>Convert Measures</h1>
   
-      <form action="" method="post">
+      <form method="post">
         <label><h2>Convert from Celcius</h2></label>
         <input type="text" name="fromcelcius" value="">
         <label><h2>Convert from Kilometers</h2></label>
